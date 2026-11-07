@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "username": "admin", "pass": "1234", "role": "ADMIN", "credit": 9999, "answer": "admin" }
+  ],
+  "gachaItems": [],
+  "gachaPrice": 50,
+  "webSettings": {},
+  "bills": []
+}
